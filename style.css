@@ -1,0 +1,52 @@
+body{
+    background-color: #F3F1FF;
+}
+.navbar img{
+    width: 40px;
+}
+.nav-item{
+    margin: 0px 10px;
+}
+.top-player img{
+    width: 56px;
+}
+main{
+    max-width: 870px;
+    margin: 0px auto;
+}
+.top-blog img{
+    width: 177px;
+}
+.top-blog span{
+    color: #9F9F9F;
+}
+.latest-course{
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+}
+.card{
+    border: none;
+    box-shadow: 1px 1px 5px rgb(235, 221, 221);
+}
+i{
+    width: 1px;
+    height: 1px;
+    margin-right: 13px;
+}
+.fas{
+    color: gold;
+}
+.grey{
+    color: grey;
+}
+.rat{
+    margin-left: 8px;
+}
+.time{
+    background-color: rgba(255, 105, 180, 0.158);
+    border-radius: 10px;
+}
+.time .fas{
+    color: rgba(205, 92, 92, 0.329)!important;
+}
